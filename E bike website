@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Electric Bicycle</title>
+  </head>
+  <body>
+    
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">EV</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+ 
+
+
+
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+
+
+          <li class="nav-item">
+            <a class="nav-link" href="#">About Us</a>
+          </li>
+
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              EV types
+            </a>
+
+
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Basic</a>
+              <a class="dropdown-item" href="#">Mid action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Advanced</a>
+            </div>
+          </li>
+
+
+          <li class="nav-item">
+            <a class="nav-link" href="">Contact Us <span class="sr-only">(current)</span></a>
+          </li>
+        </ul>
+
+
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+
+    
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://surlybikes.com/uploads/bikes/_medium_image/surly-bridge-club-bike-_BK3488_2000x1333.jpg" 
+          height="750px" width="1550px" alt="...">
+
+        </div>
+        <div class="carousel-item">
+
+         
+          
+          <img src=" https://i2.wp.com/capovelo.com/wp-content/uploads/2017/08/19250564_1398656686837388_8359865588301643704_o.jpg" 
+          height="750px" width="1550px" alt="...">
+
+        </div>
+        <div class="carousel-item">
+
+          <img src=" https://d3dbysmy5y25ht.cloudfront.net/product/meraki-27-5t/black-red/kyb/Brakes3141.jpeg" 
+          height="750px" width="1550px" alt="...">
+
+
+          <img src="https://cdn.luxe.digital/media/
+          20230212193426/
+          best-electric-bikes-fastest-trek-domane-review-lu
+          xe-digital-780x520.jpg" height="750px"  width="1550px" alt="...">
+        </div>
+      
+
+
+
+
+
+
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+
+
+
+<br>
+
+
+      <br>
+      
+      <div class="card mb-3">
+        <img src="https://www.firefoxbikes.com/on/demandware.static/-/Sites-firefox-navigation/default/dwf7b40e30/PLPBanner/categoryPLP/Hybrid/Firefox-Bike-Hybrid-Desktop.jpg" height="500px" width="600px" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h1 class="card-title"> MEGA OFFER</h5>
+          <p class="card-text"> <strong> <h3>"Go green and save money with our electric bicycles. Enjoy 30% off all orders when you shop online."</h3> </strong>
+            </p>
+          <p class="card-text"><small class="text-body-secondary"> <h4>E-bikes make commuting easier</h4></small></p>
+        </div>
+      </div>
+
+
+
+
+
+    <div class="card-deck my-4 " >
+      <div class="card">
+        <img src="https://sc04.alicdn.com/kf/H1de5890c5643467996249bf315f60e12o.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Basic(cargo)</h5>
+          <p class="card-text"> A luggage carrier bicycle, also known as a cargo bike, is a specially designed bicycle that can carry heavy loads and cargo.   It can be used for a variety of purposes, including transporting groceries, delivering packages</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted"><button type="button" class="btn btn-primary btn-lg">Price :- 410$</button></small>
+         
+        </div>
+      </div>
+
+
+
+      
+      <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0XwLuesSvDIT5HrHyMpF2oqmQir4-0yz2Q&usqp=CAU" 
+        class="card-img-top" alt="...">
+        
+        <div class="card-body">
+          <h5 class="card-title">Mid Action(child seat)</h5>
+          <p class="card-text"> Bicycle come in different designs, including front-mounted and rear-mounted seats. Have safety features such as harnesses and footrests to keep the child secure while riding.
+          Riding on a child carrier bicycle can be a fun and interactiveexperience for both the child and the adult. </p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted"><button type="button" class="btn btn-primary btn-lg">Price :- 300$</button></small>
+        </div>
+      </div>
+
+
+
+
+
+
+      <div class="card">
+        
+        <img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71yLIl9gt1L._SX425_.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Advanced(Sports)</h5>
+          <p class="card-text">It can provide an exhilarating and challenging workout that engages your entire body, helping you stay fit and healthy.  Owning a sports bicycle can be a great investment in your health and wellbeing, providing you with years of high-performance cycling enjoyment.
+        </div>
+        <div class="card-footer">
+          <small class="text-muted"><button type="button" class="btn btn-primary btn-lg">Price :- 360$</button></small>
+        </div>
+      </div>
+    </div>
+    
+    
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    
+
+  </body>
+</html>
